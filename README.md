@@ -1,5 +1,13 @@
 # 🧠 Live Quiz App
 
+## 🏢 Company: CodTech IT Solutions
+
+- **Intern Name:** Saurav Kumar  
+- **Intern ID:** CT06DA402  
+- **Domain:** Front-End Development  
+- **Duration:** 4 Weeks  
+- **Mentor:** Neela Santosh
+
 This is a **Live Quiz Application** built using **HTML, CSS, and JavaScript**. The app fetches real-time quiz questions from the **Open Trivia DB API** and allows users to select a category, difficulty level, and test their knowledge in a fun and interactive way.
 
 ---
