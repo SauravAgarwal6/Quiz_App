@@ -32,5 +32,7 @@ This is a **Live Quiz Application** built using **HTML, CSS, and JavaScript**. T
 - JavaScript (Vanilla)
 - Open Trivia DB API
 
+## OutPut
+![Image](https://github.com/user-attachments/assets/ccbcccad-046c-4cb6-ad92-57b6e90569ba)
 
 
